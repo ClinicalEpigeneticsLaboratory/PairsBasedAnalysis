@@ -23,7 +23,7 @@
 1. HOMER -> [link to manual](http://homer.ucsd.edu/homer/)
 2. LOLA DATABASE -> [instruction to build database](https://databio.org/regiondb)
 
-### Examples of usage are placed in:
+### Examples of usage:
 1. Step 1: Identification of CpG pairs - example_1.ipynb
 2. Step 2: Analysis of identified CpG pairs - example_2.ipynb
 
