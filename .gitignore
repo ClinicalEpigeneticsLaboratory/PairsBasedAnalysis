@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+# Custom files
+EXAMPLE_PROJECT/
+EPIC_50.parquet
+
 # Distribution / packaging
 .Python
 build/
