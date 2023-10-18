@@ -2,7 +2,7 @@
 name = "pairsbasedanalysis"
 version = "0.1.0"
 description = ""
-authors = ["jan.binkowski96 <jan.binkowski96@gmail.com>"]
+authors = ["Jan Binkowski <jan.binkowski@pum.edu.pl>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
